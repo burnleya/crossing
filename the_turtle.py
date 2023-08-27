@@ -14,7 +14,12 @@ class MyTurtle(Turtle):
         self.goto(START)
 
     def move_up(self):
-        self.forward(5)
+        self.forward(20)
 
     def move_down(self):
         self.backward(5)
+
+    def reset(self):
+        self.goto(START)
+
+

@@ -12,9 +12,9 @@ class RoadLines(Turtle):
         self.new_line()
 
     def new_line(self):
-        for _ in range(5):
+        for _ in range(12):
             self.draw_line()
-            self.x_cor += 40
+            self.y_cor += 40
             self.goto(self.x_cor, self.y_cor)
 
     def draw_line(self):
