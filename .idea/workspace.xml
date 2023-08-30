@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7e5c696-100d-4bf6-a5a5-23ad9e91c2d2" name="Changes" comment="03rd Commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/car.py" beforeDir="false" afterPath="$PROJECT_DIR$/car.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cars.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="b7e5c696-100d-4bf6-a5a5-23ad9e91c2d2" name="Changes" comment="04th Commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -153,7 +148,7 @@
       <workItem from="1693062835338" duration="2196000" />
       <workItem from="1693137910519" duration="1183000" />
       <workItem from="1693211401466" duration="4817000" />
-      <workItem from="1693294734724" duration="5918000" />
+      <workItem from="1693294734724" duration="5955000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1693065030960</created>
@@ -176,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693216240986</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="04th Commit">
+      <created>1693301412862</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1693301412862</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -197,7 +199,8 @@
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="02nd Commit" />
     <MESSAGE value="03rd Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="03rd Commit" />
+    <MESSAGE value="04th Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="04th Commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
