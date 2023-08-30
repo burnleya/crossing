@@ -30,6 +30,7 @@ while game_is_on:
     if my_turtle.ycor() >= 260:
         score.score()
         my_turtle.reset()
+        cars.level_up()
     for car in cars.all_cars:
         if my_turtle.distance(car) < 5:
             score.game_over()

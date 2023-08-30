@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7e5c696-100d-4bf6-a5a5-23ad9e91c2d2" name="Changes" comment="04th Commit" />
+    <list default="true" id="b7e5c696-100d-4bf6-a5a5-23ad9e91c2d2" name="Changes" comment="05th Commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/car.py" beforeDir="false" afterPath="$PROJECT_DIR$/car.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -149,6 +152,7 @@
       <workItem from="1693137910519" duration="1183000" />
       <workItem from="1693211401466" duration="4817000" />
       <workItem from="1693294734724" duration="5955000" />
+      <workItem from="1693381217853" duration="695000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1693065030960</created>
@@ -178,7 +182,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693301412862</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="05th Commit">
+      <created>1693381552030</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1693381552030</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -200,7 +211,8 @@
     <MESSAGE value="02nd Commit" />
     <MESSAGE value="03rd Commit" />
     <MESSAGE value="04th Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="04th Commit" />
+    <MESSAGE value="05th Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="05th Commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -216,6 +228,6 @@
     <SUITE FILE_PATH="coverage/crossing$cars.coverage" NAME="cars Coverage Results" MODIFIED="1693215536678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/crossing$car.coverage" NAME="car Coverage Results" MODIFIED="1693295920815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/crossing$test.coverage" NAME="test Coverage Results" MODIFIED="1693297084777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/crossing$main.coverage" NAME="main Coverage Results" MODIFIED="1693301227566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/crossing$main.coverage" NAME="main Coverage Results" MODIFIED="1693381304945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

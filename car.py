@@ -8,12 +8,14 @@ START_POSITIONS = [(260, 180), (260, 140), (260, 100), (260, 60), (260, 20), (26
 COLOURS = ["blue", "navy", "deep sky blue", "dodger blue", "spring green", "lime green", "aquamarine", "sea green",
            "orange red", "crimson", "magenta", "red", "medium slate blue", "medium purple"]
 
-MOVE_DISTANCE = 2.5
+START_MOVE_INCREMENT = 2
+MOVE_INCREMENT = 1
 
 
 class MyCars:
     def __init__(self):
         self.all_cars = []
+        self.car_speed = START_MOVE_INCREMENT
 
     def create_car(self):
         random_chance = randint(1, 6)
@@ -28,6 +30,9 @@ class MyCars:
 
     def move(self):
         for car in self.all_cars:
-            car.forward(MOVE_DISTANCE)
+            car.forward(self.car_speed)
+
+    def level_up(self):
+        self.car_speed += MOVE_INCREMENT
 
 
