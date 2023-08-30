@@ -11,6 +11,7 @@ screen.bgcolor("white")
 screen.title("Crossing Game")
 screen.tracer(0)
 
+
 my_turtle = MyTurtle()
 my_road_lines = RoadLines()
 cars = MyCars()
